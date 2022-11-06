@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910314915694",
+    "firebase_url": "https://zenmit-music-d5531-default-rtdb.firebaseio.com",
+    "project_id": "zenmit-music-d5531",
+    "storage_bucket": "zenmit-music-d5531.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910314915694:android:a4fe9c1af867b7fa30a37f",
+        "android_client_info": {
+          "package_name": "com.example.zenmitmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910314915694-tn5d83kbq3rbh95jec0sor4f82i120k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4VLc_LFrdi72yCsAwhtQdxHzTvgLDXsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910314915694-tn5d83kbq3rbh95jec0sor4f82i120k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
